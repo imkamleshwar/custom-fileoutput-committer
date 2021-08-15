@@ -1,0 +1,6 @@
+package formatWriter
+
+
+object CustomFileFormatWriter {
+
+}
